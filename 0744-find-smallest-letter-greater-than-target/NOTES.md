@@ -1,0 +1,1 @@
+all code same as classic binary search except the last return statement(seen from solution)
