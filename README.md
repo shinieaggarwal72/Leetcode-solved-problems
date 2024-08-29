@@ -47,4 +47,12 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
