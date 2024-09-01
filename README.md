@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0560-subarray-sum-equals-k) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0029-divide-two-integers) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
