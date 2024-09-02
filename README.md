@@ -61,4 +61,16 @@
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2132-convert-1d-array-into-2d-array) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
