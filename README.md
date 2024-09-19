@@ -19,6 +19,7 @@
 | [0169-majority-element](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0560-subarray-sum-equals-k) |
+| [2406-decode-the-message](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2406-decode-the-message) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0496-next-greater-element-i) |
+## String
+|  |
+| ------- |
+| [2406-decode-the-message](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2406-decode-the-message) |
 <!---LeetCode Topics End-->
