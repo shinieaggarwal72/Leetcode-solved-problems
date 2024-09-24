@@ -12,6 +12,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0560-subarray-sum-equals-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [0496-next-greater-element-i](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0560-subarray-sum-equals-k) |
 | [2406-decode-the-message](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2406-decode-the-message) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,4 +87,9 @@
 |  |
 | ------- |
 | [2406-decode-the-message](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2406-decode-the-message) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
