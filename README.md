@@ -97,4 +97,8 @@
 |  |
 | ------- |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
