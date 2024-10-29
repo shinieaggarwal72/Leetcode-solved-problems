@@ -97,6 +97,7 @@
 ## String
 |  |
 | ------- |
+| [2154-minimum-moves-to-convert-string](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2154-minimum-moves-to-convert-string) |
 | [2406-decode-the-message](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2406-decode-the-message) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Trie
@@ -108,4 +109,8 @@
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0328-odd-even-linked-list) |
 | [2835-split-a-circular-linked-list](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2835-split-a-circular-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [2154-minimum-moves-to-convert-string](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2154-minimum-moves-to-convert-string) |
 <!---LeetCode Topics End-->
