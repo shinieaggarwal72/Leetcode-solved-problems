@@ -15,6 +15,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@
 | [0075-sort-colors](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0075-sort-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2835-split-a-circular-linked-list](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2835-split-a-circular-linked-list) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Sorting
 |  |
 | ------- |
