@@ -78,6 +78,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0496-next-greater-element-i) |
 | [2227-sum-of-subarray-ranges](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2227-sum-of-subarray-ranges) |
@@ -113,4 +114,16 @@
 |  |
 | ------- |
 | [2154-minimum-moves-to-convert-string](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2154-minimum-moves-to-convert-string) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
