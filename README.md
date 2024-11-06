@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0169-majority-element) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
@@ -115,6 +117,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0055-jump-game) |
 | [2154-minimum-moves-to-convert-string](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/2154-minimum-moves-to-convert-string) |
 ## Tree
 |  |
