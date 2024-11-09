@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0274-h-index) |
 | [0496-next-greater-element-i](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1098-largest-unique-number](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/1098-largest-unique-number) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0274-h-index) |
 | [1098-largest-unique-number](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/1098-largest-unique-number) |
 ## Divide and Conquer
 |  |
@@ -131,4 +133,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
