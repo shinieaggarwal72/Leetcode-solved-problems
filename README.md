@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1098-largest-unique-number](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/1098-largest-unique-number) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1098-largest-unique-number](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/1098-largest-unique-number) |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0029-divide-two-integers) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -92,6 +95,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0225-implement-stack-using-queues) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Queue
 |  |
 | ------- |
@@ -137,4 +141,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/shinieaggarwal72/Leetcode-solved-problems/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
